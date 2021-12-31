@@ -6,8 +6,8 @@ project = 'XSpec'
 copyright = '2021-2022, XSpec'
 author = 'cirulls'
 
-release = '0.1'
-version = '0.1.0'
+release = 'v2.2.4'
+version = 'v2.2.4'
 
 # -- General configuration
 
